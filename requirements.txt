@@ -1,0 +1,11 @@
+numpy
+scipy
+scikit-learn
+pandas
+requests
+tqdm
+fastapi
+uvicorn
+pydantic
+pytest
+httpx
